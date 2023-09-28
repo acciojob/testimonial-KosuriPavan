@@ -1,13 +1,17 @@
-*{
+main{
 	background:#f5f5f5;
+	padding:10px;
 }
 
-p{
+.div1,.div2{
 	background:white;
 	border:1px solid gray;
+	padding:10px;
+	margin-bottom:20px;
 	height:60px
 }
 .author{
 	background:white;
 	font-style:italic;
+	text-align:right;
 }
